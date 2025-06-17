@@ -1,4 +1,4 @@
-# 🤖 AI Project Showcase by [Your Name]
+# 🤖 AI Project Showcase 
 
 Welcome to my AI portfolio! This repository highlights three of my recent projects that combine cutting-edge tools in AI and Machine Learning — ranging from language models to computer vision.
 
